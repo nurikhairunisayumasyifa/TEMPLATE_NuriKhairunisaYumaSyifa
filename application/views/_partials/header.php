@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="<?php echo base_url('assets/favicon.ico') ?>">
  
-    <title>Sticky Footer Navbar Template for Bootstrap</title>
+    <title>Template Sederhana</title>
  
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/">
  
